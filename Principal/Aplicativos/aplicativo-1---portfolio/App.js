@@ -9,7 +9,7 @@ import Titulo from './SRC/componentes/Titulo'
 
 function App(){ 
   return( 
-    <View> 
+    <View style={{background: 'linear-gradient(#990000, white)'}}>
     <Titulo/>
     <Imagem/>
     <Nome/>
