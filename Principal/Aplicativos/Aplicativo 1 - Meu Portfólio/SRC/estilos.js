@@ -1,11 +1,6 @@
 import { StyleSheet } from 'react-native'
 
 const estilos = StyleSheet.create({
-  contorno:{
-    marginTop: 20,
-    marginStart: 15,
-    marginEnd: 15,
-  },
     titulo:{
     color: 'red',
     alignItems: 'center',
